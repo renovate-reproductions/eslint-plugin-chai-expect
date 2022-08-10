@@ -38,7 +38,7 @@
   "devDependencies": {
     "chai": "4.3.6",
     "eslint": "8.21.0",
-    "import-from": "3.0.0",
+    "import-from": "4.0.0",
     "mocha": "9.2.2",
     "nyc": "15.1.0"
   },
